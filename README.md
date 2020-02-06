@@ -1,3 +1,3 @@
-# QF3101
+# Financial VBA
 
-Assignments for this quant class
+Exercises in using VBA for financial computations.
